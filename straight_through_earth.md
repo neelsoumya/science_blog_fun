@@ -14,7 +14,7 @@ To shove your object all the way through 12,700 km of rock, metal, and molten 
   where:
   - \(m\) is the projectile’s mass  
   - \(v\) is its entry speed  
-  - \(\sigma_{\mathrm{eff}}(r)\) is the local “smash‑through” stress of rock/metal at depth \(r\)  
+  - $\(\sigma_{\mathrm{eff}}(r)\)$ is the local “smash‑through” stress of rock/metal at depth \(r\)  
   - \(A(r)\) is your object’s cross‑sectional area at that depth  
 - **Rough Number:**  
   Assuming an average resistive stress of \(\sigma \approx 10^9\) Pa (a gigapascal; typical for rock under extreme strain) and a constant cross‑section \(A = 1\) m² over a path \(d = R = 6.37\times10^6\) m,  
