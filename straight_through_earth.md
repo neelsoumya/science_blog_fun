@@ -17,20 +17,20 @@ To shove your object all the way through 12,700 km of rock, metal, and molten 
   - $\(\sigma_{\mathrm{eff}}(r)\)$ is the local “smash‑through” stress of rock/metal at depth \(r\)  
   - \(A(r)\) is your object’s cross‑sectional area at that depth  
 - **Rough Number:**  
-  Assuming an average resistive stress of \(\sigma \approx 10^9\) Pa (a gigapascal; typical for rock under extreme strain) and a constant cross‑section \(A = 1\) m² over a path \(d = R = 6.37\times10^6\) m,  
+  Assuming an average resistive stress of $\(\sigma \approx 10^9\)$ Pa (a gigapascal; typical for rock under extreme strain) and a constant cross‑section \(A = 1\) m² over a path \(d = R = 6.37\times10^6\) m,  
   $$d = \frac{m v^2}{2 A \sigma}
   \quad\Longrightarrow\quad
   v \sim \sqrt{\frac{2 A \sigma d}{m}}.$$  
   For \(m=1\) kg and \(A=1\) m²,  
   $$v \approx \sqrt{\frac{2\cdot1\cdot10^9\ \mathrm{Pa}\cdot6.37\times10^6\ \mathrm{m}}{1\ \mathrm{kg}}}
       \approx 1.1\times10^8\ \mathrm{m/s},$$  
-  which is over a third the speed of light—so we’re squarely in relativistic territory.
+  which is over a third the speed of light: so we are squarely in relativistic territory.
 
 ---
 
 ### 2. Heating: Not Your Friendly Glow
 
-At tens of millions of meters per second, you’ll be blasting through rock like a bullet through air. The shock‑heated material around you will reach tens of thousands of kelvin—turning rock into plasma and creating a mini‑supernova ahead of you.
+At tens of millions of meters per second, you will be blasting through rock like a bullet through air. The shock‑heated material around you will reach tens of thousands of kelvin—turning rock into plasma and creating a mini‑supernova ahead of you.
 
 - **Radiation Losses:** You’ll bleed energy as X‑rays and high‑energy particles; by the time you’re halfway through, your projectile might have lost most of its mass to vaporization.  
 - **Self‑Shielding:** A solid tungsten core might survive a bit longer than steel or rock—but not much.
