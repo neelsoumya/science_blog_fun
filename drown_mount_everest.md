@@ -14,8 +14,11 @@ Let us wildly oversimplify the Earth as a perfect sphere, pretend all land is ex
    $H = 8.848\text{ km}$ (Everest above “sea” level).
 
 3. **Volume of water**  
-   $ V = A\times H \;\approx\; (510\times10^6\;\text{km}^2)\times(8.848\;\text{km}) \;\approx\; 4.5\times10^9\;\text{km}^3 $
-   
+   <!--   $ V = A\times H \;\approx\; (510\times10^6\;\text{km}^2)\times(8.848\;\text{km}) \;\approx\; 4.5\times10^9\;\text{km}^3 $ -->
+
+V = A × H ≈ (510 × 10^6 km²) × (8.848 km) ≈ 4.5 × 10^9 km³
+
+
    That’s **4.5 billion cubic kilometers** of water.
 
 ---
