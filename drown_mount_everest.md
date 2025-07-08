@@ -1,4 +1,4 @@
-# How much water would it take drown Mt. Everest?
+# How much water would it take to drown Mt. Everest?
 
 Let us wildly oversimplify the Earth as a perfect sphere, pretend all land is exactly at sea level, and then pour on the water until Mount Everest’s summit (8 848 m) disappears under a global bathtub.^\[1]
 
