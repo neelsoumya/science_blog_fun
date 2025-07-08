@@ -64,4 +64,4 @@ V = A × H ≈ (510 × 10^6 km²) × (8.848 km) ≈ 4.5 × 10^9 km³
 
 ---
 
-This assumes no existing ocean depth and ignores every other geographic complication. But hey, that’s what makes it a “What If?” thought experiment.</sub>
+This assumes no existing ocean depth and ignores every other geographic complication. 
