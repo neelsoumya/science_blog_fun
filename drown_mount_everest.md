@@ -8,20 +8,14 @@ Let us wildly oversimplify the Earth as a perfect sphere, pretend all land is ex
 
 1. **Earth’s surface area**  
    $A = 4\pi R^2$, with $R ≈ 6\,371\text{ km}$.  
-   $$
-     A \;\approx\; 4\pi (6\,371)^2 
-       \;\approx\; 510\times10^6\;\text{km}^2
-   $$
+   $ A \;\approx\; 4\pi (6\,371)^2  \;\approx\; 510\times10^6\;\text{km}^2 $
 
 2. **Desired flood depth**  
    $H = 8.848\text{ km}$ (Everest above “sea” level).
 
 3. **Volume of water**  
-   $$
-     V = A\times H 
-       \;\approx\; (510\times10^6\;\text{km}^2)\times(8.848\;\text{km})
-       \;\approx\; 4.5\times10^9\;\text{km}^3
-   $$
+   $ V = A\times H \;\approx\; (510\times10^6\;\text{km}^2)\times(8.848\;\text{km}) \;\approx\; 4.5\times10^9\;\text{km}^3 $
+   
    That’s **4.5 billion cubic kilometers** of water.
 
 ---
