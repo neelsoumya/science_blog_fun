@@ -1,0 +1,11 @@
+
+.DS_Store
+*.DS_Store
+
+# Virtual environment directories
+venv/
+venv_viz/
+.venv/
+env/
+ENV/
+

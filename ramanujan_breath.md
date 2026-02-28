@@ -1,6 +1,7 @@
 # We are all connected: What is the probability that you have breathed a molecule of air that Ramanujan had breathed?
 
 ![image](images/ramanujan.png)
+
 ---
 
 ## The Ramanujan Breath Calculation
