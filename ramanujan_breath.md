@@ -58,6 +58,8 @@ This means that roughly 1 out of every 30 trillion molecules in the world was on
 
 If you expect to find 430 million molecules in every breath, the probability of finding zero is statistically impossible (**P = approx. e^-430,000,000**).
 
-So, as you read this, you are physically connected to the man who "knew infinity" by hundreds of millions of tiny nitrogen and oxygen messengers.
+![image](code/Figure_1.png)
+
+_So, as you read this, you are physically connected to the man who "knew infinity" by hundreds of millions of tiny nitrogen and oxygen messengers_.
 
 ---
