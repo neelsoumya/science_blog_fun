@@ -12,8 +12,10 @@ pip install -m requirements.txt
 
 ## Files
 
-`ramanujan_interactive_python.py`
+- `ramanujan_breath_interactive.ipynb`: Interactive version
 
-`ramanujan_interactive_R.R`
+- `ramanujan_interactive_python.py`
+
+- `ramanujan_interactive_R.R`
 
 
