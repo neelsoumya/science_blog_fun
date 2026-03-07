@@ -1,4 +1,4 @@
-# ☢️ What If: Nuclear Rain
+# ☢️ What If: Rain from power plants
 
 ### ❓ The Question
 
