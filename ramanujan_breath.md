@@ -62,4 +62,7 @@ If you expect to find 430 million molecules in every breath, the probability of 
 
 _So, as you read this, you are physically connected to the man who "knew infinity" by hundreds of millions of tiny nitrogen and oxygen messengers_.
 
+
+You can play around with an interactive simulation in this Google Colab [notebook](https://colab.research.google.com/drive/1TsCXpshIREbIG36MtTpOYdoo3szw0A1X?usp=sharing)
+
 ---
