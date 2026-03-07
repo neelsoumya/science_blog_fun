@@ -65,4 +65,6 @@ _So, as you read this, you are physically connected to the man who "knew infinit
 
 You can play around with an interactive simulation in this Google Colab [notebook](https://colab.research.google.com/drive/1TsCXpshIREbIG36MtTpOYdoo3szw0A1X?usp=sharing)
 
+or use this [interactive webpage build in shiny](https://sb2333.shinyapps.io/ramanujan_app/)
+
 ---
