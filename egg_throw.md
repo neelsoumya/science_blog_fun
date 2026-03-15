@@ -50,15 +50,16 @@ A typical chicken egg’s terminal velocity in normal sea-level air is estimated
 
 To make an egg survive a fall onto hard ground, its terminal velocity would need to be radically lower—perhaps less than 2 m/s. This would require an atmosphere hundreds of times denser than what we have on Earth.
 
-**The sad reality is, no, there is nowhere on the surface of Planet Earth with a natural atmosphere dense enough to slow a free-falling egg to a safe landing speed.** No matter if you're at the lowest point on land (the Dead Sea) or at the equator, the variations in air density are far too small to save your egg. The pull of gravity is also remarkably consistent, varying by only about 0.7% across the globe.
 
 ## So, How Can You Make an Egg Survive?
 
 If you want to save the egg from a third-story fall without using cushioning, you have to get creative with the rules of physics. Here’s where the "fun" part comes in!
 
-1. **Change the Fluid:** What if you weren't throwing it through air? Water is a fluid over 800 times denser than air. An egg thrown into deep water would reach a very low terminal velocity extremely quickly and would almost certainly survive. (Of course, it's not "breaking," but it's also not land-based).
-2. **Change the Environment (Hypothetically):** If you could build a massive, airtight room and fill it with a super-dense, non-toxic gas like Sulfur Hexafluoride (which is about five times denser than air), the terminal velocity would be lower, but probably still not enough. You'd need pressure conditions found deep inside a gas giant planet like Jupiter—where the air eventually becomes a liquid-like fluid.
-3. **Engage in the Classic Science Experiment:** This is the real answer! Since you can't change the planet, you change the egg's "environment" by building a contraption. This is the **Egg Drop Challenge!**
+1. **Change the Temperature:** Freezing temperature would freeze the egg! Throw it off the top of a mountain on the Siachen Glacier! Everything freezes at -40C. 
+2. **Change the Surface:** Throw it on sand or water!
+3. **Change the Fluid:** What if you weren't throwing it through air? Water is a fluid over 800 times denser than air. An egg thrown into deep water would reach a very low terminal velocity extremely quickly and would almost certainly survive. (Of course, it's not "breaking," but it's also not land-based).
+4. **Change the Environment (Hypothetically):** If you could build a massive, airtight room and fill it with a super-dense, non-toxic gas like Sulfur Hexafluoride (which is about five times denser than air), the terminal velocity would be lower, but probably still not enough. You'd need pressure conditions found deep inside a gas giant planet like Jupiter—where the air eventually becomes a liquid-like fluid.
+5. **Engage in the Classic Science Experiment:** This is the real answer! Since you can't change the planet, you change the egg's "environment" by building a contraption. This is the **Egg Drop Challenge!**
 
 By building a device, you can use the two principles we discussed:
 
