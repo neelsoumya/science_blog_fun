@@ -4,6 +4,9 @@
 Is there some _magical_ corner of our planet where you can throw an egg off a third-story balcony and have it land, safe and sound, without a single crack?
 
 
+![egg](images/egg.png)
+
+
 ## The Problem
 
 As the egg falls, it gets faster and faster. When it hits the hard pavement, all that kinetic energy has to go somewhere. It stops incredibly quickly, meaning a massive amount of force is applied to the delicate eggshell in a fraction of a second. The force exceeds the shell's structural strength, and... **CRUNCH.** Your breakfast is now a sidewalk decoration.
