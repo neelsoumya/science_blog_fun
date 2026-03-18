@@ -1,12 +1,14 @@
-# Irodov problem Figure 1
+# Can you have Generative AI solve hard physics problems?
 
-[Irodov book](https://dn710308.ca.archive.org/0/items/IrodovProblemsInGeneralPhysics/Irodov-Problems_in_General_Physics.pdf)
+I asked ChatGPT to solve a problem from the book Irodov (Figure 1).
+
+- [Irodov book](https://dn710308.ca.archive.org/0/items/IrodovProblemsInGeneralPhysics/Irodov-Problems_in_General_Physics.pdf)
 
 - Small ball thrown at an initial velocity vo at an angle $\alpha$ to the horizontal strikes a vertical wall moving towards it at a horizontal velocity v and is bounced to the point from which it was thrown. Determine the time t from the beginning of motion to the moment of impact, neglecting friction losses.
 
 ## Solution by ChatGPT
 
-Neat little projectile + moving-wall trick.  I will assume
+Little projectile + moving-wall.  I will assume:
 
 * the ball is thrown from the origin at (t=0) with (v_0) at angle (\alpha) (so (u_x=v_0\cos\alpha,;u_y=v_0\sin\alpha));
 * the vertical acceleration is ( -g);
@@ -62,3 +64,10 @@ Finally substitute (u_x=v_0\cos\alpha,;u_y=v_0\sin\alpha):
 ]
 
 (Checks: for (v=0) this gives (t=v_0\sin\alpha/g) — the half flight time as expected; the formula requires (v_0\cos\alpha+v\neq0).)
+
+
+## Proof by Lean
+
+Unverified
+
+- [Lean file](code/projectile_irodov_figure1.lean)
