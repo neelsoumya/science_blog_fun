@@ -60,6 +60,10 @@ If you want to save the egg from a third-story fall without using cushioning, yo
 * **Decrease Speed:** Use a parachute to dramatically increase surface area, creating massive drag and slashing the terminal velocity.
 * **Increase Impact Time:** Surround the egg with cushioning materials like bubble wrap, cotton balls, sponges, or even a crumpled paper structure ("crumple zones"). These materials compress upon impact, increasing the time it takes for the egg to stop and spreading the force out, protecting the shell.
 
+### Fun activity
+
+Now think: would an egg crack if it dropped on _Titan_? Or our Moon? Or on Jupiter?
+
 ### Conclusion
 
 So, there are many magical spots on Earth for a free-falling egg to survive a fall.
