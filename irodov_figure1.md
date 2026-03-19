@@ -138,6 +138,10 @@ The important subtlety is that there is no single “actual force” here — th
 ![Plot](code/egg_water_plot_height.png)
 
 
+### Analysis for sand
+
+
+
 ## Irodov problem(s)
 
 I asked ChatGPT to solve a problem from the book Irodov (Figure 1).
