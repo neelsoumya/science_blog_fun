@@ -133,6 +133,10 @@ So the physical answer is: **yes, it would very likely crack**.
 
 The important subtlety is that there is no single “actual force” here — the force rises and falls during impact, so what matters is the **peak force** and the **impact duration**, not just one number. The numbers above show why water does not necessarily protect the egg much at that speed.
 
+- Plot of impact height vs. fracture load made using [python script](code/egg_crack_water_plot.py)
+
+![Plot](code/egg_water_plot_height.png)
+
 
 ## Irodov problem(s)
 
