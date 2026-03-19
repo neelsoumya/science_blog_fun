@@ -5,6 +5,7 @@ Code for blog.
 ## Installation
 
 ```bash
+cd code
 python -m venv venv_viz
 source venv_viz/bin/activate
 pip install -m requirements.txt
