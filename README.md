@@ -16,6 +16,8 @@ For the love of science (fun science blog)
 
 * [Is there a place on Earth where if we threw an egg from a 3 story building, the egg would not crack?](egg_throw.md)
 
+* [Solving physics problems using Generative AI](irodov_figure1.md)
+
 ## Contact
 
 Soumya Banerjee
