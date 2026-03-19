@@ -140,9 +140,11 @@ The important subtlety is that there is no single “actual force” here — th
 
 ### Analysis for sand
 
-
+Forthcoming
 
 ## Irodov problem(s)
+
+Image analysis (forthcoming)
 
 I asked ChatGPT to solve a problem from the book Irodov (Figure 1).
 
