@@ -279,3 +279,63 @@ $$v_2 = v_1 (1 - \sec \alpha)$$
 Since $\alpha$ is an acute angle, $\sec \alpha > 1$, making $v_2$ a **negative** value. This indicates that while ring $O'$ moves **downwards**, ring $O$ must move **upwards** to maintain the thread length. 
 The magnitude of the velocity is:
 $$|v_2| = v_1 (\sec \alpha - 1)$$
+
+
+---
+
+## Kinematics of Constrained Motion: Two Rings on Rods
+
+### 1. The Setup
+We define the vertical positions of the rings from the ceiling (the top line AA'):
+* **y1**: Vertical distance of ring **O'** (moves at constant velocity **v1**).
+* **y2**: Vertical distance of ring **O** (moves at velocity **v2**).
+* **d**: The constant horizontal distance between the two rods.
+* **L**: The total length of the inextensible thread.
+
+
+
+### 2. The Geometry
+The thread is composed of two parts:
+1.  The vertical segment from the ceiling to ring O': **y1**
+2.  The diagonal segment between ring O' and ring O: **s**
+
+Using the Pythagorean theorem for the diagonal segment:
+> **s = sqrt( d² + (y2 - y1)² )**
+
+Total length **L** is constant:
+> **L = y1 + sqrt( d² + (y2 - y1)² )**
+
+### 3. Relating the Angle (alpha)
+From the diagram, the angle **alpha** is at ring O. Based on the right triangle formed between the rings:
+* **cos(alpha) = (y2 - y1) / s**
+
+### 4. Step-by-Step Derivation
+Since the thread is inextensible, the rate of change of its total length is zero (**dL/dt = 0**).
+
+* Let **dy1/dt = v1**
+* Let **dy2/dt = v2**
+
+Differentiating the length equation with respect to time:
+1.  **0 = v1 + [ (y2 - y1) / s ] * (v2 - v1)**
+2.  Substitute the cosine relationship:
+    **0 = v1 + cos(alpha) * (v2 - v1)**
+3.  Expand and isolate **v2**:
+    **0 = v1 + v2 * cos(alpha) - v1 * cos(alpha)**
+    **v1 * (cos(alpha) - 1) = -v2 * cos(alpha)**
+
+### Final Result
+The velocity of ring O (**v2**) is:
+> **v2 = v1 * (1 - 1/cos(alpha))**
+
+Or, using the secant function:
+> **v2 = v1 * (1 - sec(alpha))**
+
+
+
+## "Gadgets" for proving computability class from textbook by Chris Moore
+
+- Fun Fact from Moore: The beauty of this reduction is that it shows how "hard" problems are often just logic puzzles in disguise. The gadgets act like physical components in a machine, where the "True" signal must be able to flow through the circuit.
+
+- [3-SAT](https://www.geeksforgeeks.org/dsa/3-coloring-is-np-complete/)
+
+- # TODO: come up with a proof sketch and have GenAI/codex/Antigravity/Lean fill out the proof
