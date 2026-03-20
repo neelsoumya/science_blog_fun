@@ -154,6 +154,8 @@ I asked ChatGPT to solve a problem from the book Irodov (Figure 1).
 
 - [Irodov book](https://dn710308.ca.archive.org/0/items/IrodovProblemsInGeneralPhysics/Irodov-Problems_in_General_Physics.pdf)
 
+- [Krotov book](https://ia601408.us.archive.org/0/items/ProblemsInPhysicsSSKrotov/Problems%20In%20Physics%20SS%20Krotov.pdf)
+
 - Small ball thrown at an initial velocity vo at an angle $\alpha$ to the horizontal strikes a vertical wall moving towards it at a horizontal velocity v and is bounced to the point from which it was thrown. Determine the time t from the beginning of motion to the moment of impact, neglecting friction losses.
 
 ## Solution by ChatGPT
@@ -221,3 +223,59 @@ Finally substitute (u_x=v_0\cos\alpha,;u_y=v_0\sin\alpha):
 Unverified
 
 - [Lean file](code/projectile_irodov_figure1.lean)
+
+
+## Another problem in Krotov
+
+- _Problem 1.19_ Two rings 0 and 0' are put on two vertical stationary rods AB and A'B' respectively. An inextensible thread is fixed at point A' and on ring O and is passed through ring O' (Fig. 6). Assuming that ring O' moves downwards at a constant velocity v1, determine the velocity v2 of ring O if  angle AOO' = alpha.
+
+- ChatGPT got this wrong initially and had to asked to recheck its answer
+
+- Gemini gave the following answer:
+
+This problem is a classic application of **constrained motion** in kinematics. The key is to recognize that the total length of the inextensible thread remains constant, which relates the velocities of the two rings.
+
+### 1. Define the Geometry and Coordinates
+Let's set up a coordinate system where:
+* The vertical positions of rings $O$ and $O'$ are measured downwards from the ceiling level ($AA'$). Let these be $y_2$ and $y_1$ respectively.
+* The horizontal distance between the two rods is constant, let's call it $d$.
+* The total length of the thread is $L$.
+
+From the problem description, the thread starts at fixed point $A'$, passes through ring $O'$, and ends at ring $O$. Thus, the total length $L$ is composed of two segments:
+1.  **Segment $A'O'$**: Its length is simply the vertical distance from the ceiling to ring $O'$, which is $y_1$.
+2.  **Segment $O'O$**: Its length, let's call it $s$, is the distance between the two rings. Using the Pythagorean theorem:
+    $$s = \sqrt{d^2 + (y_2 - y_1)^2}$$
+
+The total length is:
+$$L = y_1 + \sqrt{d^2 + (y_2 - y_1)^2}$$
+
+### 2. Relate the Geometry to Angle $\alpha$
+According to the diagram, $\alpha$ is the angle $\angle AOO'$. Since rod $AB$ is vertical, the vertical distance between the rings is the adjacent side to this angle in the right triangle formed by the horizontal distance $d$.
+$$\cos \alpha = \frac{y_2 - y_1}{s}$$
+
+### 3. Differentiate with Respect to Time
+Since the thread is inextensible, its total length $L$ is constant, so $\frac{dL}{dt} = 0$.
+Differentiating the length equation:
+$$0 = \frac{dy_1}{dt} + \frac{d}{dt} \left( \sqrt{d^2 + (y_2 - y_1)^2} \right)$$
+$$0 = v_1 + \frac{1}{2\sqrt{d^2 + (y_2 - y_1)^2}} \cdot 2(y_2 - y_1) \cdot \left( \frac{dy_2}{dt} - \frac{dy_1}{dt} \right)$$
+
+We know that $\frac{dy_1}{dt} = v_1$ (velocity of $O'$) and $\frac{dy_2}{dt} = v_2$ (velocity of $O$). Substituting these and the expression for $\cos \alpha$:
+$$0 = v_1 + \cos \alpha \cdot (v_2 - v_1)$$
+
+### 4. Solve for $v_2$
+Now, we rearrange the equation to find the velocity of ring $O$:
+$$v_1 + v_2 \cos \alpha - v_1 \cos \alpha = 0$$
+$$v_2 \cos \alpha = v_1 \cos \alpha - v_1$$
+$$v_2 = \frac{v_1(\cos \alpha - 1)}{\cos \alpha}$$
+$$v_2 = v_1 \left(1 - \frac{1}{\cos \alpha}\right)$$
+
+---
+
+### Final Answer
+The velocity $v_2$ of ring $O$ is:
+$$v_2 = v_1 (1 - \sec \alpha)$$
+
+**Note on Direction:**
+Since $\alpha$ is an acute angle, $\sec \alpha > 1$, making $v_2$ a **negative** value. This indicates that while ring $O'$ moves **downwards**, ring $O$ must move **upwards** to maintain the thread length. 
+The magnitude of the velocity is:
+$$|v_2| = v_1 (\sec \alpha - 1)$$
