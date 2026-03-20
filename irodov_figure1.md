@@ -338,6 +338,6 @@ Or, using the secant function:
 
 - [3-SAT](https://www.geeksforgeeks.org/dsa/3-coloring-is-np-complete/)
 
-- # TODO: come up with a proof sketch and have GenAI/codex/Antigravity/Lean fill out the proof of a "gadget"
+- # TODO: I will come up with a proof sketch and have GenAI/codex/Antigravity/Lean fill out the proof of a "gadget". Iterate on that and give the _model_ feedback (especially if you think it is making an error). Ask it to validate on a similar problem. Have it come up with a tikz diagram to show the proof idea. Also ask for Lean code.
 
-- # TODO: solve a mathematical problem in calculus Maron or ML Khanna
+- # TODO: solve a mathematical problem in calculus IA Maron or ML Khanna. Iterate on that and give the _model_ feedback (especially if you think it is making an error). Ask it to validate on a similar problem. Have it come up with a tikz diagram to show the proof idea. Also ask for Lean code.
