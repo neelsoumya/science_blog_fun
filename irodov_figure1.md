@@ -4,6 +4,8 @@
 
 - For the [egg breaking problem](egg_throw.md), ChatGPT and Gemini made mistakes saying that _eggs will not break if thrown onto water_.
 
+- For the [egg breaking problem](egg_throw.md), ChatGPT and Gemini made other omissions like not mentioning that freezing the egg (very low temperatures) would help it not crack.
+
 - when probed further using the prompt _would an egg crack if it's thrown from a third-story building onto water?_ here is what ChatGPT answered:
 
 Short answer: **very likely yes, it would crack**.
@@ -338,6 +340,10 @@ Or, using the secant function:
 
 - [3-SAT](https://www.geeksforgeeks.org/dsa/3-coloring-is-np-complete/)
 
-- # TODO: I will come up with a proof sketch and have GenAI/codex/Antigravity/Lean fill out the proof of a "gadget". Iterate on that and give the _model_ feedback (especially if you think it is making an error). Ask it to validate on a similar problem. Have it come up with a tikz diagram to show the proof idea. Also ask for Lean code.
+- # TODO: I will come up with a proof sketch and have GenAI/codex/Antigravity/Lean fill out the proof of a "gadget". Iterate on that and give the _model_ feedback (especially if you think it is making an error). Ask it to validate on a similar problem. Have it come up with a tikz diagram to show the proof idea. Also ask for Lean code. Ask it to explain _like I am five_ (give an informal high-level idea of the proof).
 
-- # TODO: solve a mathematical problem in calculus IA Maron or ML Khanna. Iterate on that and give the _model_ feedback (especially if you think it is making an error). Ask it to validate on a similar problem. Have it come up with a tikz diagram to show the proof idea. Also ask for Lean code.
+- # TODO: solve a mathematical problem in calculus IA Maron or ML Khanna. Iterate on that and give the _model_ feedback (especially if you think it is making an error). Ask it to validate on a similar problem. Have it come up with a tikz diagram to show the proof idea. Also ask for Lean code. Ask it to explain _like I am five_ (give an informal high-level idea of the proof).
+
+- # TODO: puzzles from book on puzzles [The Canterbury Puzzles, and Other Curious Problems by Henry Ernest Dudeney](https://www.gutenberg.org/ebooks/27635)
+
+- # TODO: Problems in ARC as well?
