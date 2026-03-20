@@ -142,6 +142,10 @@ The important subtlety is that there is no single “actual force” here — th
 
 Forthcoming
 
+## Mathematics problem(s)
+
+Forthcoming
+
 ## Irodov problem(s)
 
 Image analysis (forthcoming)
