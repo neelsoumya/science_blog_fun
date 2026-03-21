@@ -404,6 +404,7 @@ If you are interested in solving problems today using these tools, here is the "
 **Would you like me to help you draft a Python script using SymPy to test a specific mathematical conjecture, or would you prefer to dive deeper into how Lean 4 works?**
 
 
+- # TODO: read paper on [social aspect of scientific agents in Patterns journal](https://www.cell.com/patterns/fulltext/S2666-3899(26)00006-1)
 
 - # TODO: puzzles from book on puzzles [The Canterbury Puzzles, and Other Curious Problems by Henry Ernest Dudeney](https://www.gutenberg.org/ebooks/27635)
 
