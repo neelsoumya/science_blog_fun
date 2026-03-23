@@ -362,7 +362,7 @@ Fusing a scientific AI agent with the **Ramanujan Machine** (an algorithmic fram
 
 In this setup, the Ramanujan Machine acts as the "Intuition Engine," and the AI Agent acts as the "Research Lead."
 
-* **The Intuition Engine (Ramanujan Machine):** This component uses heavy computation to find new mathematical identities, often in the form of continued fractions for constants like $\pi$ or $e$. It doesn't know *why* they work; it just knows they *might* be true based on numerical evidence.
+* **The Intuition Engine (Ramanujan Machine):** This component uses heavy computation to find new mathematical identities, often in the form of continued fractions for constants like $\pi$ or $e$. It does not know *why* they work; it just knows they *might* be true based on numerical evidence.
 * **The Formalizer (AI Agent):** This is where the synergy happens. An LLM-based agent (like a fine-tuned GPT-4 or a specialized math model) takes the raw conjecture and translates it into a formal language like **Lean 4** or **Isabelle**.
 * **The Verification Loop:** The agent then interacts with a formal theorem prover. If the proof fails, the agent can "hallucinate" potential lemmas or middle steps, testing them against the theorem prover until a path is found.
 
@@ -372,7 +372,7 @@ In this setup, the Ramanujan Machine acts as the "Intuition Engine," and the AI 
 
 ## 2. The Discovery Loop: Human + AI + Machine
 
-The synergy you’re pursuing would likely follow this cycle:
+The synergy you are pursuing would likely follow this cycle:
 
 | Phase | Actor | Task |
 | :--- | :--- | :--- |
