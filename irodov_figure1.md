@@ -423,3 +423,11 @@ _Key Takeaways_ 🧩🚀 From the paper above:
 
 
 - # TODO: Problems in ARC as well?
+
+## Knuth
+
+- Donald Knuth [crediting Claude for solving a problem he had been working on for a few weeks](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
+
+## AI and medicine
+
+- Pet dog owner uses [ChatGPT to create vaccine for cancer](https://www.youtube.com/watch?v=COYSRbF1F-Y&t=1s)
