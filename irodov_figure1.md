@@ -408,7 +408,7 @@ If you are interested in solving problems today using these tools, here is the "
 
 - # TODO: read paper on [social aspect of scientific agents in Patterns journal](https://www.cell.com/patterns/fulltext/S2666-3899(26)00006-1)
 
-
+>
 _Key Takeaways_ 🧩🚀 From the paper above:
 
 `Narratives emphasizing autonomous “AI scientists,” the underrecognition of data and infrastructure work, misaligned incentives, and gaps between domain experts and machine-learning researchers all limit the impact of AI on scientific discovery`
@@ -416,10 +416,10 @@ _Key Takeaways_ 🧩🚀 From the paper above:
 `We call for reframing AI for science as a collective social project, where sustainable collaboration and equitable participation are treated as prerequisites for achieving technical progress.`
 
 `... and infrastructure inequities, which concentrate power within privileged institutions [25].`
+>
 
 
 - # TODO: puzzles from book on puzzles [The Canterbury Puzzles, and Other Curious Problems by Henry Ernest Dudeney](https://www.gutenberg.org/ebooks/27635)
 
-- 
 
 - # TODO: Problems in ARC as well?
