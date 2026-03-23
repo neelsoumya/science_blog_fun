@@ -354,7 +354,7 @@ Or, using the secant function:
 
 - 🧩🚀 _That is a fascinating "Centaur" approach to discovery. You're essentially describing a system where the AI provides the **divergent intuition** (the "what if") and the **convergent logic** (the "how so"), while the human provides the **semantic direction** (the "why it matters")_.
 
-Fusing a scientific AI agent with the **Ramanujan Machine** (an algorithmic framework that discovers conjectures for fundamental constants) creates a powerful pipeline. Here is how that architecture would likely look and function.
+Fusing a scientific AI agent with the [**Ramanujan Machine**](https://arxiv.org/abs/1907.00205) (an algorithmic framework that discovers conjectures for fundamental constants) creates a powerful pipeline. Here is how that architecture would likely look and function.
 
 ---
 
