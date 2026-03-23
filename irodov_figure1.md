@@ -346,11 +346,13 @@ Or, using the secant function:
 
 - # TODO: what would be scientific agentic AI fused with the _Ramanujan machine_ look like?
 
-- help me draft a Python script using SymPy to test a specific mathematical conjecture
+- # TODO: link to the [egg breaking problem](egg_throw.md) and [Ramanujan breath problem](ramanujan_breath.md)
+
+- # TODO help me draft a Python script using SymPy to test a specific mathematical conjecture
 
 - output from Gemini
 
-- That is a fascinating "Centaur" approach to discovery. You're essentially describing a system where the AI provides the **divergent intuition** (the "what if") and the **convergent logic** (the "how so"), while the human provides the **semantic direction** (the "why it matters").
+- 🧩🚀 _That is a fascinating "Centaur" approach to discovery. You're essentially describing a system where the AI provides the **divergent intuition** (the "what if") and the **convergent logic** (the "how so"), while the human provides the **semantic direction** (the "why it matters")_.
 
 Fusing a scientific AI agent with the **Ramanujan Machine** (an algorithmic framework that discovers conjectures for fundamental constants) creates a powerful pipeline. Here is how that architecture would likely look and function.
 
@@ -405,6 +407,16 @@ If you are interested in solving problems today using these tools, here is the "
 
 
 - # TODO: read paper on [social aspect of scientific agents in Patterns journal](https://www.cell.com/patterns/fulltext/S2666-3899(26)00006-1)
+
+
+_Key Takeaways_ 🧩🚀 From the paper above:
+
+`Narratives emphasizing autonomous “AI scientists,” the underrecognition of data and infrastructure work, misaligned incentives, and gaps between domain experts and machine-learning researchers all limit the impact of AI on scientific discovery`
+
+`We call for reframing AI for science as a collective social project, where sustainable collaboration and equitable participation are treated as prerequisites for achieving technical progress.`
+
+`... and infrastructure inequities, which concentrate power within privileged institutions [25].`
+
 
 - # TODO: puzzles from book on puzzles [The Canterbury Puzzles, and Other Curious Problems by Henry Ernest Dudeney](https://www.gutenberg.org/ebooks/27635)
 
