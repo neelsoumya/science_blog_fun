@@ -431,7 +431,9 @@ _Key Takeaways_ 🧩🚀 From the paper above:
 - 🤔❓Solve synergistically with LLMs and AI
 
 - Knuth says > `...interacted with two data-sharing LLM agents that
-have complementary skills, namely GPT and Claude_` For more details [see](https://github.com/no-way-labs/residue)  Multi agent architecture with an orchestrator.
+have complementary skills, namely GPT and Claude_` For more details [see](https://github.com/no-way-labs/residue)  
+
+- This is a Multi agent architecture with an orchestrator.
 
 - _Concept_ 🧩🚀 Key insight that they found is _structure the interaction, not the strategy used_ and _force a synthesis after a few tries (look for patterns)_. See prompt [here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md)
 
