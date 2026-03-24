@@ -430,6 +430,8 @@ _Key Takeaways_ 🧩🚀 From the paper above:
 
 - 🤔❓Solve synergistically with LLMs and AI
 
+- 🤔❓ Can [HCI design principles](https://www.youtube.com/watch?v=eWVw5HLZhuk&list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ&index=16) to use AI tools synergistically with humans?
+
 ## AI and medicine
 
 - Pet dog owner uses [ChatGPT to create vaccine for cancer](https://www.youtube.com/watch?v=COYSRbF1F-Y&t=1s)
