@@ -435,6 +435,8 @@ have complementary skills, namely GPT and Claude_` For more details [see](https:
 
 - _Concept_ 🧩🚀 Key insight that they found is _structure the interaction, not the strategy used_ and _force a synthesis after a few tries (look for patterns)_. See prompt [here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md)
 
+- 🧩🚀 Document different use cases of people/mathematicians working with these tools. Have a dataset of this. Then extract _design patterns of machine co-working and prompts_
+
 - 🤔❓ Can [HCI design principles](https://www.youtube.com/watch?v=eWVw5HLZhuk&list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ&index=16) to use AI tools synergistically with humans?
 
 - 🤔❓ symbiotic mathematics or collaborative theorem discovery. _How should humans and AI share control during discovery?_
