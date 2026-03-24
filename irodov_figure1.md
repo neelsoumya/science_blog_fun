@@ -430,7 +430,27 @@ _Key Takeaways_ 🧩🚀 From the paper above:
 
 - 🤔❓Solve synergistically with LLMs and AI
 
+- Knuth says > `...interacted with two data-sharing LLM agents that
+have complementary skills, namely GPT and Claude_` For more details [see](https://github.com/no-way-labs/residue)  Multi agent architecture with an orchestrator.
+
+- _Concept_ 🧩🚀 Key insight that they found is _structure the interaction, not the strategy used_ and _force a synthesis after a few tries (look for patterns)_. See prompt [here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md)
+
 - 🤔❓ Can [HCI design principles](https://www.youtube.com/watch?v=eWVw5HLZhuk&list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ&index=16) to use AI tools synergistically with humans?
+
+- 🤔❓ symbiotic mathematics or collaborative theorem discovery. _How should humans and AI share control during discovery?_
+
+
+- AI as a mixed-initiative research assistant for mathematical and physical discovery, with formal verification as the backbone and human judgment as the steering wheel
+
+- Conjecture generation for mathematics
+
+The system could search for patterns in known theorems and generate plausible new statements.
+
+Examples:
+
+“If theorem X holds under assumptions A, B, C, what is the weakest assumption set that still works?”
+“What analogous lemma should hold if I replace this algebraic structure with that one?”
+“Can the system detect useful intermediate lemmas that humans usually discover informally?”
 
 ## AI and medicine
 
