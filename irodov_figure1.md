@@ -468,6 +468,7 @@ Examples:
 
 - Pet dog owner uses [ChatGPT to create vaccine for cancer](https://www.youtube.com/watch?v=COYSRbF1F-Y&t=1s)
 
+- _TLDR_ Paul Conyngham, a tech entrepreneur in Sydney, used ChatGPT as a brainstorming tool to help explore options for his dog Rosie’s aggressive cancer. He asked ChatGPT, "What can I do to help my dog’s aggressive cancer?" Based on its suggestions, he sequenced the tumor DNA with the University of New South Wales, and then used AI, along with AlphaFold, to help model protein mutations. This was a starting point; the actual vaccine design still required deep collaboration with researchers and ethics approval.
 
 ## Physics and Lean
 
