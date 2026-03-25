@@ -462,7 +462,7 @@ Examples:
 
 - [Article on how students should use AI](https://www.nature.com/articles/d41586-026-00843-y)
 
-- [Link to Senior Fellowship of HEA](https://neelsoumya.github.io/AI_for_biomedical_students/materials/ai_pedagogy_biomedicine.html)
+- [Link to Senior Fellowship of HEA and AI for pedagogy](https://neelsoumya.github.io/AI_for_biomedical_students/materials/ai_pedagogy_biomedicine.html)
 
 ## AI and medicine
 
