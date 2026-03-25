@@ -458,6 +458,12 @@ Examples:
 “What analogous lemma should hold if I replace this algebraic structure with that one?”
 “Can the system detect useful intermediate lemmas that humans usually discover informally?”
 
+## AI and Students and education and pedagogy
+
+- [Article on how students should use AI](https://www.nature.com/articles/d41586-026-00843-y)
+
+- [Link to Senior Fellowship of HEA](https://neelsoumya.github.io/AI_for_biomedical_students/materials/ai_pedagogy_biomedicine.html)
+
 ## AI and medicine
 
 - Pet dog owner uses [ChatGPT to create vaccine for cancer](https://www.youtube.com/watch?v=COYSRbF1F-Y&t=1s)
