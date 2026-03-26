@@ -235,7 +235,7 @@ Unverified
 
 - ChatGPT DeepResearch got it right. It also provided an image
 
-![image](ring_problem.png)
+![image](images/ring_problem.png)
 
 - Gemini gave the following answer:
 
