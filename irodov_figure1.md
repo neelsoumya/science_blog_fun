@@ -233,7 +233,8 @@ Unverified
 
 - ChatGPT got this wrong initially and had to asked to recheck its answer . _But it got the general idea: that the length of thread remains constant and constrains the velocities of the rings_
 
-- ChatGPT DeepResearch got it right. It also provided an image
+- ChatGPT DeepResearch got it right. It also provided an image (see below). I also asked it structure its answer according to the [prompt here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md)
+
 
 ![image](images/ring_problem.png)
 
