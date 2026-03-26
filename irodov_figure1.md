@@ -458,6 +458,11 @@ Examples:
 “What analogous lemma should hold if I replace this algebraic structure with that one?”
 “Can the system detect useful intermediate lemmas that humans usually discover informally?”
 
+## Prompt template for long AI tasks with multiple agents
+
+- See prompt [here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md)
+
+
 ## AI and Students and education and pedagogy
 
 - [Article on how students should use AI](https://www.nature.com/articles/d41586-026-00843-y)
