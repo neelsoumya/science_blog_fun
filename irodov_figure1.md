@@ -229,9 +229,11 @@ Unverified
 
 ## Another problem in Krotov
 
-- _Problem 1.19_ Two rings 0 and 0' are put on two vertical stationary rods AB and A'B' respectively. An inextensible thread is fixed at point A' and on ring O and is passed through ring O' (Fig. 6). Assuming that ring O' moves downwards at a constant velocity v1, determine the velocity v2 of ring O if  angle AOO' = alpha.
+- _Problem 1.19_ Two rings O and O' are put on two vertical stationary rods AB and A'B' respectively. An inextensible thread is fixed at point A' and on ring O and is passed through ring O' (Fig. 6). Assuming that ring O' moves downwards at a constant velocity v1, determine the velocity v2 of ring O if  angle AOO' = alpha.
 
 - ChatGPT got this wrong initially and had to asked to recheck its answer . _But it got the general idea: that the length of thread remains constant and constrains the velocities of the rings_
+
+- ChatGPT DeepResearch got it right. It also provided an ![image](ring_problem.png)
 
 - Gemini gave the following answer:
 
