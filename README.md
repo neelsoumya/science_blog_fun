@@ -18,6 +18,13 @@ For the love of science (fun science blog)
 
 * [Solving physics problems using Generative AI](irodov_figure1.md)
 
+* [How many candidates should you interview for a job?](interview_candidates.md)
+
+
 ## Contact
 
 Soumya Banerjee
+
+sb2333@cam.ac.uk
+
+[Website](https://neelsoumya.github.io/)
