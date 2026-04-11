@@ -473,7 +473,7 @@ Examples:
 
 - See prompt [here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md)
 
-- Use the `SKILLS.md` file [here](code/SKILL%20(2).md)
+- Use the `SKILLS.md` file [here](code/SKILL.md) and upload it to _Claude_
 
 
 - In _Claude_ use the following prompt
