@@ -478,7 +478,7 @@ Examples:
 
 - In _Claude_ use the following prompt
 
-```html
+```python
 use the /scientific-ai-super-agent scientific ai super agent skill to work on the following question: Is there some magical corner of our planet where you can throw an egg off a third-story balcony and have it land, safe and sound, without a single crack? think creatively/scientific-ai-super-agent 
 ```
 
