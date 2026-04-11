@@ -453,6 +453,10 @@ have complementary skills, namely GPT and Claude_` For more details [see](https:
 
 - AI as a mixed-initiative research assistant for mathematical and physical discovery, with formal verification as the backbone and human judgment as the steering wheel
 
+- [Paper on Supermind Ideator in Collective Intelligence](https://journals.sagepub.com/doi/10.1177/26339137241305117)
+
+- Outsource some ideas on humans (human participant study)
+
 - Conjecture generation for mathematics
 
 The system could search for patterns in known theorems and generate plausible new statements.
@@ -463,10 +467,20 @@ Examples:
 “What analogous lemma should hold if I replace this algebraic structure with that one?”
 “Can the system detect useful intermediate lemmas that humans usually discover informally?”
 
+
+
 ## Prompt template for long AI tasks with multiple agents
 
 - See prompt [here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md)
 
+- Use the `SKILLS.md` file [here](code/SKILL%20(2).md)
+
+
+- In _Claude_ use the following prompt
+
+```html
+use the /scientific-ai-super-agent scientific ai super agent skill to work on the following question: Is there some magical corner of our planet where you can throw an egg off a third-story balcony and have it land, safe and sound, without a single crack? think creatively/scientific-ai-super-agent 
+```
 
 ## AI and Students and education and pedagogy
 
