@@ -455,6 +455,8 @@ have complementary skills, namely GPT and Claude_` For more details [see](https:
 
 - [Paper on Supermind Ideator in Collective Intelligence](https://journals.sagepub.com/doi/10.1177/26339137241305117)
 
+- [Prism](https://prism.openai.com/) to use an interface
+
 - Outsource some ideas on humans (human participant study)
 
 - Conjecture generation for mathematics
