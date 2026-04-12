@@ -471,12 +471,12 @@ Examples:
 
 ## Prompt template for long AI tasks with multiple agents
 
-- See prompt [here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md)
+- See prompt [here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md). I have also used _Claude_ to convert this to a [SKILLS.md](code/SKILL4.md). This was used to solve Problem 1.61 (Fig 31) in Irodov (see [Solution](code/irodov_problem_fig31.md))
 
-- Use the `SKILLS.md` file [here](code/SKILL.md) and upload it to _Claude_
+- Also use another `SKILLS.md` file [here](code/SKILL.md) and upload it to [_Claude_](https://claude.ai/new)
 
 
-- In _Claude_ use the following prompt
+- In [_Claude_](https://claude.ai/new) use the following prompt:
 
 ```python
 use the /scientific-ai-super-agent scientific ai super agent skill to work on the following question: Is there some magical corner of our planet where you can throw an egg off a third-story balcony and have it land, safe and sound, without a single crack? think creatively/scientific-ai-super-agent 
