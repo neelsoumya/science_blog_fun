@@ -450,6 +450,7 @@ have complementary skills, namely GPT and Claude_` For more details [see](https:
 
 - 🤔❓ symbiotic mathematics or collaborative theorem discovery. _How should humans and AI share control during discovery?_
 
+- [HCI principles](https://www.youtube.com/playlist?list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ)
 
 - AI as a mixed-initiative research assistant for mathematical and physical discovery, with formal verification as the backbone and human judgment as the steering wheel
 
@@ -463,7 +464,7 @@ have complementary skills, namely GPT and Claude_` For more details [see](https:
 
 > Basic moves ... Basic design moves: Zoom out, Zoom in, Analogize. Supermind design moves: groupify, technify, cognify
 
-- [Prism](https://prism.openai.com/) to use an interface
+- [Prism](https://prism.openai.com/) to use an [interface](https://youtu.be/eWVw5HLZhuk?si=X2MLyOmu7VYBW3eE)
 
 - Outsource some ideas on humans (human participant study)
 
