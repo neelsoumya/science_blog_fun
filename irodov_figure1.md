@@ -455,6 +455,14 @@ have complementary skills, namely GPT and Claude_` For more details [see](https:
 
 - [Paper on Supermind Ideator in Collective Intelligence](https://journals.sagepub.com/doi/10.1177/26339137241305117)
 
+> From the paper above .... trying to make connections between a problem and seemingly unrelated ideas is one simple technique for triggering creative ideas  (Lee et al. (2023) Lee, O’Mahony, and Lebeck).
+
+> From [Supermind design primer](https://cci.mit.edu/supermind-design-primer/) ... Supermind Design is one of many designapproaches, including design thinking,agile design, participatory design, andothers.
+
+> ... `Supermind Ideator` illustrates how a collectively intelligent system composed of a person and a computer can design other collectively intelligent systems
+
+> Basic moves ... Basic design moves: Zoom out, Zoom in, Analogize. Supermind design moves: groupify, technify, cognify
+
 - [Prism](https://prism.openai.com/) to use an interface
 
 - Outsource some ideas on humans (human participant study)
