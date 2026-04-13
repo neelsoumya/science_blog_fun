@@ -446,7 +446,7 @@ have complementary skills, namely GPT and Claude_` For more details [see](https:
 
 - _Takeaways_ Knuth’s story shows a pattern where the model helps reframe the problem, generate candidate structures, test them, and persist through search space that would be tedious for a person alone. For science more broadly, this suggests a shift from “AI as answer machine” to “AI as hypothesis engine plus verifier". The machine proposes, the formal system checks, and the human sets direction and interprets meaning.
 
-- 🤔❓ Can [HCI design principles](https://www.youtube.com/watch?v=eWVw5HLZhuk&list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ&index=16) to use AI tools synergistically with humans?
+- 🤔❓ Can [HCI design principles](https://www.youtube.com/watch?v=eWVw5HLZhuk&list=PLLssT5z_DsK_nusHL_Mjt87THSTlgrsyJ&index=16) to use AI tools synergistically with humans? [HCI notes here](https://neelsoumya.github.io/teaching_web_development/materials/HCI.html)
 
 - 🤔❓ symbiotic mathematics or collaborative theorem discovery. _How should humans and AI share control during discovery?_
 
