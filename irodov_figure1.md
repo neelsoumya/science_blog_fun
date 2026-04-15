@@ -466,7 +466,7 @@ have complementary skills, namely GPT and Claude_` For more details [see](https:
 
 - [Prism](https://prism.openai.com/) to use an [interface](https://youtu.be/eWVw5HLZhuk?si=X2MLyOmu7VYBW3eE)
 
-- OpenAI Canvas
+- OpenAI Canvas + OpenAI DeepResearch (with projects + [SKILLS.md](code/SKILL.md))
 
 - Outsource some ideas on humans (human participant study)
 
