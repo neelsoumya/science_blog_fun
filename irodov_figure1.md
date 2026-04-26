@@ -442,7 +442,7 @@ have complementary skills, namely GPT and Claude_` For more details [see](https:
 
 - _Concept_ 🧩🚀 Key insight that they found is _structure the interaction, not the strategy used_ and _force a synthesis after a few tries (look for patterns)_. See prompt [here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md)
 
-- 🧩🚀 Document different use cases of people/mathematicians working with these tools. Have a dataset of this. Then extract _design patterns of machine co-working and prompts_
+- 🧩 🚀 Document different use cases of people/mathematicians working with these tools. Have a dataset of this. Then extract _design patterns of machine co-working and prompts_
 
 - _Takeaways_ Knuth’s story shows a pattern where the model helps reframe the problem, generate candidate structures, test them, and persist through search space that would be tedious for a person alone. For science more broadly, this suggests a shift from “AI as answer machine” to “AI as hypothesis engine plus verifier". The machine proposes, the formal system checks, and the human sets direction and interprets meaning.
 
@@ -466,7 +466,7 @@ have complementary skills, namely GPT and Claude_` For more details [see](https:
 
 - [Prism](https://prism.openai.com/) to use an [interface](https://youtu.be/eWVw5HLZhuk?si=X2MLyOmu7VYBW3eE)
 
-- OpenAI Canvas + OpenAI DeepResearch (with projects + [SKILLS.md](code/SKILL.md))
+- OpenAI Canvas + OpenAI DeepResearch ( with projects + [SKILLS.md](code/SKILL.md) )
 
 - Outsource some ideas on humans (human participant study)
 
@@ -482,9 +482,11 @@ Examples:
 
 
 
-## Prompt template for long AI tasks with multiple agents
+## 🤔 Prompt template for long AI tasks with multiple agents
 
-- See prompt [here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md). I have also used _Claude_ to convert this to a [SKILLS.md](code/SKILL4.md). This was used to solve Problem 1.61 (Fig 31) in Irodov (see [Solution](code/irodov_problem_fig31.md))
+- 🤔 See prompt [here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md). I have also used _Claude_ to convert this to a [SKILLS.md](code/SKILL4.md). 
+
+💡 This was used to solve Problem 1.61 (Fig 31) in Irodov (see [Solution](code/irodov_problem_fig31.md))
 
 - Also use another `SKILLS.md` file [here](code/SKILL.md) and upload it to [_Claude_](https://claude.ai/new)
 
