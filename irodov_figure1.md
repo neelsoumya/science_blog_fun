@@ -480,11 +480,13 @@ Examples:
 “What analogous lemma should hold if I replace this algebraic structure with that one?”
 “Can the system detect useful intermediate lemmas that humans usually discover informally?”
 
+- 🤔 See prompt [here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md) for long AI tasks with multiple agents. I have also used _Claude_ to convert this to a [SKILLS.md](code/SKILL4.md). 
+
 
 
 ## 🤔 Prompt template for long AI tasks with multiple agents
 
-- 🤔 See prompt [here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md). I have also used _Claude_ to convert this to a [SKILLS.md](code/SKILL4.md). 
+- 🤔 See prompt [here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md) for long AI tasks with multiple agents. I have also used _Claude_ to convert this to a [SKILLS.md](code/SKILL4.md). 
 
 📝💡 This was used to solve Problem 1.61 (Fig 31) in Irodov (see [Solution](code/irodov_problem_fig31.md))
 
