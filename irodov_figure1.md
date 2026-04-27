@@ -233,6 +233,11 @@ Unverified
 
 - ChatGPT got this wrong initially and had to asked to recheck its answer . _But it got the general idea: that the length of thread remains constant and constrains the velocities of the rings_
 
+- It gets "stuck" solving a physics problem
+>     it "knows" it needs to apply a principle (conservation of momentum, etc).
+>      gets the "big picture"
+>      but then gets lost in the details
+
 - ChatGPT DeepResearch got it right. It also provided an image (see below). I also asked it structure its answer according to the [prompt here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md)
 
 
