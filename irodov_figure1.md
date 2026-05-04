@@ -231,7 +231,7 @@ Unverified
 
 - _Problem 1.19_ Two rings O and O' are put on two vertical stationary rods AB and A'B' respectively. An inextensible thread is fixed at point A' and on ring O and is passed through ring O' (Fig. 6). Assuming that ring O' moves downwards at a constant velocity v1, determine the velocity v2 of ring O if  angle AOO' = alpha.
 
-- ChatGPT got this wrong initially and had to asked to recheck its answer . _But it got the general idea: that the length of thread remains constant and constrains the velocities of the rings_
+- 🤔 ❓ ChatGPT got this wrong initially and had to asked to recheck its answer. _But it got the general idea: that the length of thread remains constant and constrains the velocities of the rings_
 
 - It gets "stuck" solving a physics problem
 >     it "knows" it needs to apply a principle (conservation of momentum, etc).
