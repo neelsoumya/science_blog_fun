@@ -473,7 +473,7 @@ have complementary skills, namely GPT and Claude_` For more details [see](https:
 
 - OpenAI Canvas + OpenAI DeepResearch ( with projects + [SKILLS.md](code/SKILL.md) )
 
-- Outsource some ideas on humans (human participant study)
+- 🤔 ❓ Outsource some ideas on humans (human participant study). _AI-human collaboration_
 
 - Conjecture generation for mathematics
 
