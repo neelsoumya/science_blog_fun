@@ -2,6 +2,8 @@
 
 - This is a blog on using GenAI for solving physics problems. 
 
+- 🧩 🚀 _Themes_ LLMs, multi-agent systems, creative problem solving, creativity in AI, human-AI collaboration
+
 - For the [egg breaking problem](egg_throw.md), ChatGPT and Gemini made mistakes saying that _eggs will not break if thrown onto water_.
 
 - For the [egg breaking problem](egg_throw.md), ChatGPT and Gemini made other omissions like not mentioning that freezing the egg (very low temperatures) would help it not crack.
