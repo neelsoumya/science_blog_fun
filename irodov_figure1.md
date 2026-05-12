@@ -489,6 +489,7 @@ Examples:
 
 - 🤔 See prompt [here](https://github.com/no-way-labs/residue/blob/main/prompt/residue.md) for long AI tasks with multiple agents. I have also used _Claude_ to convert this to a [SKILLS.md](code/SKILL4.md). 
 
+- Also use the following in prompt zoom in and zoom out. See figure 1 in [paper](https://journals.sagepub.com/doi/10.1177/26339137241305117) and [MIT paper](https://cci.mit.edu/wp-content/uploads/2021/08/Supermind-Design-Primer-v2.pdf)
 
 
 ## 🤔 Prompt template for long AI tasks with multiple agents
