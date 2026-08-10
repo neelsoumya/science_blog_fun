@@ -529,3 +529,8 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 ## Physics and Lean
 
 - [PhysLean](https://physlean.com/)
+
+## AI and does it reason
+
+- [Melanie Mitchell blog](https://aiguide.substack.com/p/do-ai-reasoning-models-abstract-and)
+- [Detailed GPT-5 logs while solving Knuth's problem](https://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c791)
