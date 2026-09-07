@@ -539,6 +539,8 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 - A non-mathematician only gave words of _encouragement_ and asked Claude to _take a stab at solving the Riemann hypothesis_
 - implications for how non-mathematicians engage with mathematics and democratizing access to mathematics, math anxiety, education and outreach
 
+>Even Claude was surprised by its own finding—it was skeptical at first, possibly because it has learned from its training about the difficulty of open problems in mathematics and about the limitations of AI models. But after some encouraging prompts, it arrived at the result we’ve described.
+
 
 ## Novelty
 
