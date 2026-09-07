@@ -532,6 +532,10 @@ Examples:
 use the /scientific-ai-super-agent scientific ai super agent skill to work on the following question: Is there some magical corner of our planet where you can throw an egg off a third-story balcony and have it land, safe and sound, without a single crack? think creatively/scientific-ai-super-agent 
 ```
 
+## Claude and Riemann Zeta functions
+
+- [Claude and Riemann Zeta](https://www.anthropic.com/research/riemann-zeta)
+
 ## Novelty
 
 - Birch test
