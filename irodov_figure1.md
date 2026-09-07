@@ -537,6 +537,7 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 - [Claude and Riemann Zeta](https://www.anthropic.com/research/riemann-zeta)
 - _Encouragement is all you need?_
 - A non-mathematician only gave words of _encouragement_ and asked Claude to _take a stab at solving the Riemann hypothesis_
+- implications for how non-mathematicians engage with mathematics and democratizing access to mathematics, math anxiety, education and outreach
 
 
 ## Novelty
