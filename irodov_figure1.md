@@ -1,6 +1,6 @@
-# Can Generative AI solve hard physics problems?
+# Can Generative AI solve hard physics and math problems?
 
-- This is a blog on using GenAI for solving physics problems. 
+- This is a blog on using GenAI for solving physics and math problems. 
 
 - 🧩 🚀 _Themes_ LLMs, multi-agent systems, creative problem solving, creativity in AI, human-AI collaboration
 
@@ -541,6 +541,10 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 
 >Even Claude was surprised by its own finding—it was skeptical at first, possibly because it has learned from its training about the difficulty of open problems in mathematics and about the limitations of AI models. But after some encouraging prompts, it arrived at the result we’ve described.
 
+
+## OpenAI and Navier-Stokes
+
+- [OpenAI solves a Millenium Prize problem](https://openai.com/index/navier-stokes-solution/)
 
 ## Novelty
 
