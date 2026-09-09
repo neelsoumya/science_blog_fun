@@ -546,6 +546,14 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 
 - [OpenAI solves a Millenium Prize problem](https://openai.com/index/navier-stokes-solution/)
 
+>we asked our multiagent system to try a set of “easier” problems..... This is known as the regularity problem for the Euler equations, and our agents surprised us by resolving this question.
+
+>Once we saw the Euler solution, we thought that Navier–Stokes was the most promising problem to work on. Thus, we decided to devote our resources to Navier–Stokes. To do so, we shifted agents away from the other Millennium Problems and prompted these agents with the Euler resolution.
+
+>We encouraged different groups of agents to explore a diversity of approaches. After some time, we cross-pollinated the agent groups by using Codex to consolidate the most useful insights from each agent group. These follow-up prompts drew on the agents’ own intermediate results.
+
+- again highlights the role of humans in `shepherding` agents and guiding them, and finding intermediate results which can help scaffold a final solution (Euler)
+
 ## Novelty
 
 - Birch test
