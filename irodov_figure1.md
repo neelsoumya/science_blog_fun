@@ -554,12 +554,15 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 
 - again highlights the role of humans in `shepherding` agents and guiding them, and finding intermediate results which can help scaffold a final solution (Euler)
 
-## Novelty
+## Quantify Novelty of Hypotheses/Conjectures
 
 - Birch test
 
 - Quantify novelty and impact on field
 
+## Others
+
+- [Sakana AI Scientist](https://sakana.ai/ai-scientist/)
 
 ## AI and Students and education and pedagogy
 
