@@ -565,11 +565,19 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 
 ![image of ignorance AI](images/ignorance.png)
 
+## New ways of collaborating with AI tools
+
+- [Terrence Tao talking about how we might need new ways of collaborating with AI tools🧰](https://www.youtube.com/shorts/M7eQUHH-oWI)
+
+>AI tools might create new variants of Riemann zeta functions, that are then analyzed by humans, with more analysis by AI which might lead to new connections
+
 ## Quantify Novelty of Hypotheses/Conjectures
 
 - Birch test
 
 - Quantify novelty and impact on field
+
+
 
 ## Others
 
