@@ -563,6 +563,7 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 - [Paper: Superintelligence as the Discovery of Unexplored Reasoning Spaces Learning the Shape of Human Ignorance](https://www.researchgate.net/publication/414172960_Superintelligence_as_the_Discovery_of_Unexplored_Reasoning_Spaces_Learning_the_Shape_of_Human_Ignorance)
 - [Video](https://www.youtube.com/shorts/032Qh5sDMtg)
 
+![image of ignorance AI](images/ignorance.png)
 
 ## Quantify Novelty of Hypotheses/Conjectures
 
