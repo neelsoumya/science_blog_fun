@@ -554,6 +554,16 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 
 - again highlights the role of humans in `shepherding` agents and guiding them, and finding intermediate results which can help scaffold a final solution (Euler)
 
+## Exploring Ignorance with AI
+
+- AI explores the ignorance frontier of humans (what humans do not know or cannot explore) `unknown unknowns`
+- Humans then build on it and assimilate these new learnings
+- This becomes the new frontier that AI now starts exploring
+- Cyclical process
+- [Paper: Superintelligence as the Discovery of Unexplored Reasoning Spaces Learning the Shape of Human Ignorance](https://www.researchgate.net/publication/414172960_Superintelligence_as_the_Discovery_of_Unexplored_Reasoning_Spaces_Learning_the_Shape_of_Human_Ignorance)
+- [Video](https://www.youtube.com/shorts/032Qh5sDMtg)
+
+
 ## Quantify Novelty of Hypotheses/Conjectures
 
 - Birch test
