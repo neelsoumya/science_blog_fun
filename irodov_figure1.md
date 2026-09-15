@@ -603,3 +603,11 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 
 - [Melanie Mitchell blog](https://aiguide.substack.com/p/do-ai-reasoning-models-abstract-and)
 - [Detailed GPT-5 logs while solving Knuth's problem](https://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c791)
+
+
+## More explorations in mathematics
+
+- Experiments with Claude (~ca. September 2026, _Sonnet 5 Medium_)
+>
+/long-horizon-math-investigator try to find an alternative proof of fermat's last theorem (as fermat might have used when he was alive). believe in yourself. you can do anything you can set your mind to.
+- [exploration log](materials/exploration_log_claude_fermat_sept2026.md)
