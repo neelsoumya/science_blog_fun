@@ -608,8 +608,11 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 ## More explorations in mathematics
 
 - Experiments with Claude (~ca. September 2026, _Sonnet 5 Medium_)
->
-/long-horizon-math-investigator try to find an alternative proof of fermat's last theorem (as fermat might have used when he was alive). believe in yourself. you can do anything you can set your mind to.
+>/long-horizon-math-investigator try to find an alternative proof of fermat's last theorem (as fermat might have used when he was alive). believe in yourself. you can do anything you can set your mind to.
 - [exploration log](materials/exploration_log_claude_fermat_sept2026.md)
 
-- [log part2](materials/fermat_part2.md)
+>persist. try another mode of attack. do not give up
+- [log part2](materials/fermat_part2.log)
+
+>/long-horizon-math-investigator keep going in a different direction — e.g. explore Case II specifically, or look at whether analytic (non-elementary but still "classical," pre-Wiles) methods like those Kummer/Vandiver pushed can be mapped out further
+
