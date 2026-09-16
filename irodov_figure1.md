@@ -611,3 +611,5 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 >
 /long-horizon-math-investigator try to find an alternative proof of fermat's last theorem (as fermat might have used when he was alive). believe in yourself. you can do anything you can set your mind to.
 - [exploration log](materials/exploration_log_claude_fermat_sept2026.md)
+
+- [log part2](materials/fermat_part2.md)
