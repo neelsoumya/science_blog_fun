@@ -613,7 +613,7 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 - [exploration log](materials/exploration_log_claude_fermat_sept2026.md)
 
 >persist. try another mode of attack. do not give up
-- [log part2](materials/fermat_part2.log)
+- [log part2](materials/fermat_part2.md)
 
 >/long-horizon-math-investigator keep going in a different direction — e.g. explore Case II specifically, or look at whether analytic (non-elementary but still "classical," pre-Wiles) methods like those Kummer/Vandiver pushed can be mapped out further
 - [log part 3](materials/fermat_part3.md)
