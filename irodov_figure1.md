@@ -619,5 +619,5 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 - [log part 3](materials/fermat_part3.md)
 
 >/long-horizon-math-investigator could Fermat have had an insight that is not apparent to us yet? for example an unexpected connection between two different fields. think long and hard
-- [log part 3](materials/fermat_part4.md)
+- [log part 4](materials/fermat_part4.md)
   
