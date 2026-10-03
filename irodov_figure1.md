@@ -623,7 +623,7 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
   
 >/long-horizon-math-investigator  is it possible that fermat had a proof that was a near miss: held for almost all numbers or was valid in a special case?
 
-- [log part 7](fermat_part7.md)
+- [log part 7](materials/fermat_part7.md)
 
 > Why such a simple sounding theorem requires such complex mathematics to prove?
 
