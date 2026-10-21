@@ -635,6 +635,9 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 
 ## OpenAI massive release of proofs dataset
 
+
+- [OpenAI massive release of results ~ca. 2026](https://github.com/openai/math/blob/main/CONTENTS.md)
+
 - [AHM statement](https://www.ahmath.org/statements)
 
 >Yesterday, on October 6th, 2026, OpenAI – which is currently defending lawsuits against accusations of illegal plagiarism, copyright infringement, and trademark dilution – released a repository of manuscripts purporting to contain solutions to a number of high-profile problems in mathematics.
