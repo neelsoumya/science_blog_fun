@@ -605,10 +605,12 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 - [Detailed GPT-5 logs while solving Knuth's problem](https://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c791)
 
 
-## More _fun_ explorations in mathematics
+## More _fun_ explorations in mathematics (trying to find an alternate proof of Fermat's Last Theorem)
 
 - Experiments with Claude (~ca. September 2026, _Sonnet 5 Medium_)
 - Can we create an alternative proof of Fermat's Last Theorem that _Fermat_ may have used in his time
+- These experiments use a _SKILLS.md_ file (provided below)
+- _long-horizon-math-investigator_ is [here](code/SKILL4.md)
 >/long-horizon-math-investigator try to find an alternative proof of fermat's last theorem (as fermat might have used when he was alive). believe in yourself. you can do anything you can set your mind to.
 - [exploration log](materials/exploration_log_claude_fermat_sept2026.md)
 
@@ -631,6 +633,8 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 - [log part 6](materials/fermat_part6.md)
 - [log part 5](materials/fermat_part5.md)
   
+- 💡 This has implications for how non-mathematicians engage with mathematics
+- 💡 This also has implications for math outreach and math anxiety
 
 
 ## OpenAI massive release of proofs dataset
