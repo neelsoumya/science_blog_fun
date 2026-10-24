@@ -579,32 +579,6 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 
 
 
-## Others
-
-- [Sakana AI Scientist](https://sakana.ai/ai-scientist/)
-
-## AI and Students and education and pedagogy
-
-- [Article on how students should use AI](https://www.nature.com/articles/d41586-026-00843-y)
-
-- [Link to Senior Fellowship of HEA and AI for pedagogy](https://neelsoumya.github.io/AI_for_biomedical_students/materials/ai_pedagogy_biomedicine.html)
-
-## AI and medicine
-
-- Pet dog owner uses [ChatGPT to create vaccine for cancer](https://www.youtube.com/watch?v=COYSRbF1F-Y&t=1s)
-
-- _TLDR_ Paul Conyngham, a tech entrepreneur in Sydney, used ChatGPT as a brainstorming tool to help explore options for his dog Rosie’s aggressive cancer. He asked ChatGPT, "What can I do to help my dog’s aggressive cancer?" Based on its suggestions, he sequenced the tumor DNA with the University of New South Wales, and then used AI, along with AlphaFold, to help model protein mutations. This was a starting point; the actual vaccine design still required deep collaboration with researchers and ethics approval.
-
-## Physics and Lean
-
-- [PhysLean](https://physlean.com/)
-
-## AI and does it reason
-
-- [Melanie Mitchell blog](https://aiguide.substack.com/p/do-ai-reasoning-models-abstract-and)
-- [Detailed GPT-5 logs while solving Knuth's problem](https://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c791)
-
-
 ## More _fun_ explorations in mathematics (trying to find an alternate proof of Fermat's Last Theorem)
 
 - Experiments with Claude (~ca. September 2026, _Sonnet 5 Medium_)
@@ -651,6 +625,33 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 >Mathematicians have a particular vision of progress that is informed by history and field-specific considerations. We reject OpenAI's assertion that this release advances our subject, and we urge mathematicians and the public to view the value of this publication model with due skepticism. 
 
 >Releasing over 700 files at once is not a demonstration of scholarship, but a demonstration of power. We urge mathematicians to discontinue their work with OpenAI and to return to a vision of science that centers human understanding.
+
+## Others
+
+- [Sakana AI Scientist](https://sakana.ai/ai-scientist/)
+
+## AI and Students and education and pedagogy
+
+- [Article on how students should use AI](https://www.nature.com/articles/d41586-026-00843-y)
+
+- [Link to Senior Fellowship of HEA and AI for pedagogy](https://neelsoumya.github.io/AI_for_biomedical_students/materials/ai_pedagogy_biomedicine.html)
+
+## AI and medicine
+
+- Pet dog owner uses [ChatGPT to create vaccine for cancer](https://www.youtube.com/watch?v=COYSRbF1F-Y&t=1s)
+
+- _TLDR_ Paul Conyngham, a tech entrepreneur in Sydney, used ChatGPT as a brainstorming tool to help explore options for his dog Rosie’s aggressive cancer. He asked ChatGPT, "What can I do to help my dog’s aggressive cancer?" Based on its suggestions, he sequenced the tumor DNA with the University of New South Wales, and then used AI, along with AlphaFold, to help model protein mutations. This was a starting point; the actual vaccine design still required deep collaboration with researchers and ethics approval.
+
+## Physics and Lean
+
+- [PhysLean](https://physlean.com/)
+
+## AI and does it reason
+
+- [Melanie Mitchell blog](https://aiguide.substack.com/p/do-ai-reasoning-models-abstract-and)
+- [Detailed GPT-5 logs while solving Knuth's problem](https://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c791)
+
+
 
 
 
