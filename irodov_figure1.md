@@ -629,6 +629,8 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 
 >Releasing over 700 files at once is not a demonstration of scholarship, but a demonstration of power. We urge mathematicians to discontinue their work with OpenAI and to return to a vision of science that centers human understanding.
 
+- [Leiden declaration on math and AI](https://leidendeclaration.ai/) and paper by [Mark Huber](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=2535&context=jhm) 
+
 ## Others
 
 - [Sakana AI Scientist](https://sakana.ai/ai-scientist/)
