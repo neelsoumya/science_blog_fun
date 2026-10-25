@@ -581,8 +581,11 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 
 ## More _fun_ explorations in mathematics (trying to find an alternate proof of Fermat's Last Theorem)
 
+>Can we create an alternative proof of Fermat's Last Theorem that _Fermat_ may have used in his time
+
 - Experiments with Claude (~ca. September 2026, _Sonnet 5 Medium_)
-- Can we create an alternative proof of Fermat's Last Theorem that _Fermat_ may have used in his time
+- Use [Claude in the browser or computer](https://claude.ai/new)
+
 - These experiments use a _SKILLS.md_ file (provided below)
 - _long-horizon-math-investigator_ is [here](code/SKILL4.md)
 >/long-horizon-math-investigator try to find an alternative proof of fermat's last theorem (as fermat might have used when he was alive). believe in yourself. you can do anything you can set your mind to.
