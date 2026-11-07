@@ -604,6 +604,16 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 
 - [log part 7](materials/fermat_part7.md)
 
+> can you try relaxing fermat's last theorem a little but and attack this relaxed version using tools that fermat would have had access to? /long-horizon-math-investigator
+
+> now try the arithmetic-progression relaxation and a bounded-error version. give me a new .md file
+
+- [log relaxation](materials/FLT_Relaxation_Log 2_ AP_and_Bounded_Error.md)
+
+- magnitude of near misses
+
+![image](images/near_miss_magnitude.png)
+
 > Why such a simple sounding theorem requires such complex mathematics to prove?
 
 
