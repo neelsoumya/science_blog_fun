@@ -608,7 +608,7 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 
 > now try the arithmetic-progression relaxation and a bounded-error version. give me a new .md file
 
-- [log relaxation](materials/FLT_Relaxation_Log 2_ AP_and_Bounded_Error.md)
+- [log relaxation FLT](materials/FLT_Relaxation_Log_2_AP_and_Bounded_Error.md)
 
 - magnitude of near misses
 
