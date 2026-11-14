@@ -614,6 +614,9 @@ use the /scientific-ai-super-agent scientific ai super agent skill to work on th
 
 ![image](images/near_miss_magnitude.png)
 
+
+- Explore the near misses using an [interactive webpage](https://neelsoumya.github.io/fermat-near-misses/)
+
 > Why such a simple sounding theorem requires such complex mathematics to prove?
 
 
